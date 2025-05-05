@@ -1,0 +1,6 @@
+echo "Привет, мир!"
+mkdir test_folder
+cd test_folder
+touch test.txt
+echo "Это тестовый файл" > test.txt
+cat test.txt
